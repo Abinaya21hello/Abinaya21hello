@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abinaya21hello
+- 👋 Hi, I’m @Abinaya M
 - 👀 I’m interested in MERN STACK DEV💎
 - 🌱 I’m currently learning WHAT I DONT KNOW
 - 💞️ I’m looking to collaborate on ANYTHING 
